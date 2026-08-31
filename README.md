@@ -1,9 +1,3 @@
-# 🎯 300 LeetCode Medium Problems Challenge (C++)
-
-Welcome to my personal archive of optimized C++ solutions for **300 LeetCode Medium problems**. This repository is designed to track my progress, master core Data Structures & Algorithms (DSA), and prepare for technical software engineering interviews.
-
----
-
 ## 📊 Challenge Progress
 
 - **Status:** 🟡 In Progress
