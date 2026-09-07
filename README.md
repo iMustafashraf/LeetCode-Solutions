@@ -6,4 +6,4 @@ A curated collection of optimal C++ solutions for LeetCode Data Structures & Alg
 
 | # | Title | Solution | Difficulty | Tag | Discuss |
 |---|---|:---:|:---:|---|:---:|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./Arrays-and-Hashing/0001-two-sum.cpp) | 🟢 Easy | Array / Hash Table | [Discuss](https://leetcode.com/problems/two-sum/discuss/) |
+| 1 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](./Data-Structures/206.-Reverse-Linked-List/solution.cpp) | 🟢 Easy | Linked-List |
