@@ -6,4 +6,4 @@ A curated collection of optimal C++ solutions for LeetCode Data Structures & Alg
 
 | # | Title | Solution | Difficulty | Tag 
 |---|---|:---:|:---:|---|
-| 1 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](./Data-Structures/206-Reverse-Linked-List.cpp) | 🟢 Easy | Linked-List |
+| 1 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](./Data-Structure/206-Reverse-Linked-List.cpp) | 🟢 Easy | Linked-List |
