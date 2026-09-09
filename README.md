@@ -4,6 +4,8 @@ A curated collection of optimal C++ solutions for LeetCode Data Structures & Alg
 
 ## 📌 Solutions Index
 
+
 | # | Title | Solution | Difficulty | Tag 
 |---|---|:---:|:---:|---|
 | 1 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](./Data-Structure/206-Reverse-Linked-List.cpp) | 🟢 Easy | Linked-List |
+| 2 | [Add 2 Linked-Lists numbers](https://leetcode.com/problems/add-two-numbers) | [C++](./Data-Structure/Add-Two-Numbers.cpp) |  🟡 Medium | Linked-List |
