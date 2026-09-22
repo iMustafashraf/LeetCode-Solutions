@@ -4,6 +4,7 @@ A curated collection of optimal C++ solutions for LeetCode Data Structures & Alg
 
 ## 📌 Solutions Index
 
+
 | # | Title | Solution | Difficulty | Tag 
 |---|---|:---:|:---:|---|
 | 1 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](./Data-Structure/206-Reverse-Linked-List.cpp) | 🟢 Easy | Linked-List |
@@ -11,3 +12,4 @@ A curated collection of optimal C++ solutions for LeetCode Data Structures & Alg
 | 3 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [C++](Data-Structure/Valid-Parentheses.cpp) |  🟢 Easy | Stack |
 | 4 | [Asteroids Collision](https://leetcode.com/problems/asteroid-collision/) | [C++](Data-Structure/Asteroid-Collision.cpp) |  🟡 Medium | Stack |
 | 5 | [Max Depth - Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [C++](Data-Structure/Maximum-Depth-Binary-Tree.cpp) |  🟢 Easy | Binary Tree |
+| 6 | [Sum of left leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [C++](Data-Structure/Sum-left-leaves.cpp) |  🟢 Easy | Binary Tree |
