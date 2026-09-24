@@ -14,4 +14,5 @@ A curated collection of optimal C++ solutions for LeetCode Data Structures & Alg
 | 6 | [Sum of left leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [C++](Data-Structure/Sum-left-leaves.cpp) |  🟢 Easy | Binary Tree |
 | 7 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [C++](Data-Structure/Diameter-Binary-Tree.cpp) |  🟢 Easy | Binary Tree |
 | 8 | [Zizag level order traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [C++](Data-Structure/ZiZag-Level-Order.cpp) |  🟡 Medium | Binary Tree |
+| 9 | [Check Completness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/description/) | [C++](Data-Structure/Check-Completness-Binary-Tree.cpp) |  🟡 Medium | Binary Tree |
 
