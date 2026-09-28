@@ -4,8 +4,6 @@ A curated collection of optimal C++ solutions for LeetCode Data Structures & Alg
 
 ## 📌 Solutions Index
 
-
-
 | # | Title | Solution | Difficulty | Tag 
 |---|---|:---:|:---:|---|
 | 1 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](./Data-Structure/206-Reverse-Linked-List.cpp) | 🟢 Easy | Linked-List |
@@ -18,4 +16,5 @@ A curated collection of optimal C++ solutions for LeetCode Data Structures & Alg
 | 8 | [Zizag level order traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [C++](Data-Structure/ZiZag-Level-Order.cpp) |  🟡 Medium | Binary Tree |
 | 9 | [Check Completness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/description/) | [C++](Data-Structure/Check-Completness-Binary-Tree.cpp) |  🟡 Medium | Binary Tree |
 | 10 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [C++](Data-Structure/Validate-Binary-Search-Tree.cpp) |  🟡 Medium | Binary Search Tree |
+| 11 | [Min Stack](https://leetcode.com/problems/min-stack/) | [C++](Data-Structure/Min-Stack.cpp) |  🟡 Medium | Stack |
 
