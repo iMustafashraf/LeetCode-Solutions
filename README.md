@@ -17,4 +17,4 @@ A curated collection of optimal C++ solutions for LeetCode Data Structures & Alg
 | 9 | [Check Completness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/description/) | [C++](Data-Structure/Check-Completness-Binary-Tree.cpp) |  🟡 Medium | Binary Tree |
 | 10 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [C++](Data-Structure/Validate-Binary-Search-Tree.cpp) |  🟡 Medium | Binary Search Tree |
 | 11 | [Min Stack](https://leetcode.com/problems/min-stack/) | [C++](Data-Structure/Min-Stack.cpp) |  🟡 Medium | Stack |
-
+| 12 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C++](Data-Structure/Symmetric-Tree.cpp) |  🟢 Easy | Binary Tree |
