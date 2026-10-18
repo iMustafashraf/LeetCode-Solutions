@@ -42,3 +42,35 @@ public:
         // }
     }
 };
+
+// -------------------------------{ For Bigger values but difference between them is slow! }------------------------------
+
+vector<int> CountShift(vector<int> &nums){
+	if (nums.empty()) {
+		return {};
+	}
+
+	int min_val = nums[0];
+	int max_val = nums[0];
+	for (int num : nums) {
+		if (num < min_val) min_val = num;
+		if (num > max_val) max_val = num;
+	}
+
+	int range_span = max_val - min_val + 1;
+	std::vector<int> count(range_span, 0);
+
+	for (int num : nums) {
+		count[num - min_val]++;
+	}
+
+	std::vector<int> result;
+	for (int i = 0; i < range_span; ++i) {
+		while (count[i] > 0) {
+			result.push_back(i + min_val);
+			count[i]--;
+		}
+	}
+
+	return result;
+}
