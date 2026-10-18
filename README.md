@@ -20,3 +20,4 @@ A curated collection of optimal C++ solutions for LeetCode Data Structures & Alg
 | 12 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C++](Data-Structure/Symmetric-Tree.cpp) |  🟢 Easy | Binary Tree |
 | 13 | [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/description/) | [C++](Data-Structure/Flip-Equivalent-Tree.cpp) |  🟡 Medium | Binary Tree |
 | 14 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [C++](Data-Structure/Invert-Binary-Tree.cpp) |  🟢 Easy | Binary Tree |
+| 15 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [C++](Algorithm/Sort-Array.cpp) |  🟡 Medium | Sorting |
